@@ -4,7 +4,7 @@ Call svgMove like below by passing in the path selector and the element selector
 
 ```javascript
 svgMove({
-      pathEl: '.svgPath', // Specify the path selector
-      moveEL: '.svgMove', // Add the circle, ellipse or rectangle element selector
+      pathEl: '.svgPath', // Specify which path selector
+      moveEL: '.svgMove', // Add the circle, ellipse or rectangle element selector you would like to move
 });
 ```
